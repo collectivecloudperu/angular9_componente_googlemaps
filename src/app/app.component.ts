@@ -11,7 +11,7 @@ export class AppComponent {
 
   // Configuración de Google Maps 
   center = {lat: -12.0262676, lng: -77.1278653};  
-  zoom = 4;
+  zoom = 15;
   display?: google.maps.LatLngLiteral;
 
 } 
